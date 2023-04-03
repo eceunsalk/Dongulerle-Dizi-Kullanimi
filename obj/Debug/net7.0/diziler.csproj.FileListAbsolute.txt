@@ -1,0 +1,11 @@
+/Users/ece/Desktop/C Sharp Çalışmaları/diziler/bin/Debug/net7.0/diziler
+/Users/ece/Desktop/C Sharp Çalışmaları/diziler/bin/Debug/net7.0/diziler.dll
+/Users/ece/Desktop/C Sharp Çalışmaları/diziler/bin/Debug/net7.0/diziler.pdb
+/Users/ece/Desktop/C Sharp Çalışmaları/diziler/obj/Debug/net7.0/diziler.csproj.AssemblyReference.cache
+/Users/ece/Desktop/C Sharp Çalışmaları/diziler/obj/Debug/net7.0/diziler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ece/Desktop/C Sharp Çalışmaları/diziler/obj/Debug/net7.0/diziler.AssemblyInfoInputs.cache
+/Users/ece/Desktop/C Sharp Çalışmaları/diziler/obj/Debug/net7.0/diziler.AssemblyInfo.cs
+/Users/ece/Desktop/C Sharp Çalışmaları/diziler/obj/Debug/net7.0/diziler.csproj.CoreCompileInputs.cache
+/Users/ece/Desktop/C Sharp Çalışmaları/diziler/obj/Debug/net7.0/diziler.dll
+/Users/ece/Desktop/C Sharp Çalışmaları/diziler/obj/Debug/net7.0/refint/diziler.dll
+/Users/ece/Desktop/C Sharp Çalışmaları/diziler/obj/Debug/net7.0/diziler.pdb
